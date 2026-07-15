@@ -1,3 +1,7 @@
+v26.2.0 (2026-07-15)
+-------------------------
+ * Version bump to align with the RapidPro 26.2 stable series
+
 v26.0.1 (2026-04-08)
 -------------------------
  * Update to go 1.26
